@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabdev Panchal
 - 👀 I’m interested in Java Development
-- 🌱 I’m currently learning MEAN
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on small-pojects from which I can learn new things
 - 📫 How to reach me 9327788769
 - 😄 Pronouns: He/Him
